@@ -24,7 +24,7 @@ wget -N https://raw.githubusercontent.com/lisi-123/rclone/main/udp_port_mapping.
 
 服务端口填写 **3000**
 
-以上设置不会永久保存，重启vps即可失效，需要重新设置
+以上设置不会永久保存，重启vps即可失效
 
 <br>
 
