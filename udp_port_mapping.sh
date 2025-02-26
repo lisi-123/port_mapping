@@ -1,6 +1,10 @@
 #!/bin/bash
 
-apt install sudo -y
+# 检查是否已经安装sudo
+if ! command -v sudo &> /dev/null; then
+    echo "sudo 未安装，正在安装..."
+    apt install sudo -y
+fi
 
 # 提示输入连接端口的起始和终止端口
 echo "请输入连接端口（起始）:"
