@@ -1,6 +1,9 @@
 ## 机场 hy2端口跳跃教程
 
-（适用于v2board wyx2685和xboard）
+**适用于 v2board wyx2685 和 xboard**
+
+
+<br>
 
 首先要搭建一个普通的hy2节点
 
