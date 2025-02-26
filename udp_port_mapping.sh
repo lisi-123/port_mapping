@@ -1,5 +1,7 @@
 #!/bin/bash
 
+apt install sudo -y
+
 # 提示输入连接端口的起始和终止端口
 echo "请输入连接端口（起始）:"
 read start_port
