@@ -24,7 +24,7 @@ wget -N https://raw.githubusercontent.com/lisi-123/rclone/main/udp_port_mapping.
 
 服务端口填写 **3000**
 
-然后在机场那边，把“连接端口”改成 **6000-7000**
+然后在机场面板里，把 **“连接端口”** 改成 **6000-7000**
 
 
 这里提到的所有端口，只是为了方便理解举的例子
