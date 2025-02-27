@@ -18,6 +18,13 @@ wget -N https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_ma
 
 ```
 
+如果因为ipv6导致无法运行，试试这个
+
+```bash
+wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_mapping.sh && bash ./udp_port_mapping.sh
+
+```
+
 连接端口（起始）填写 **6000**
 
 连接端口（终止）填写 **7000**
