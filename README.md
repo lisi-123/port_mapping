@@ -54,6 +54,8 @@ wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_ma
 
 实际操作中，可以根据需求随意调整
 
+注意：服务端口不能在连接端口的范围内！
+
 <br>
 
 本教程仅供小白使用，感觉稍微有点水平都用不上这个哎 &nbsp;&nbsp; (›´ω`‹ )
