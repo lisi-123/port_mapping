@@ -1,6 +1,6 @@
 ## 机场 hy2端口跳跃教程
 
-**适用于 v2board wyx2685 和 xboard**
+**适用于 v2board wyx2685（肯定可以） 和 xboard（理论上也可以）**
 
 
 <br>
