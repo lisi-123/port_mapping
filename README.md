@@ -43,7 +43,7 @@ wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_ma
 
  **“连接端口”** 改成 **6000-7000**（注意符号！！！&nbsp; 中间是-而不是:）
  
-**服务端口** 保持不变，还是 **3000**
+**“服务端口”** 保持不变，还是 **3000**
 
 
 <br>
