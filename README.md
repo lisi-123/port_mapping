@@ -41,7 +41,7 @@ wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_ma
 
 <br>
 
-最后打开机场管理面板
+最后打开机场管理面板，找到使用 **3000** 端口搭建的hy2节点
 
  **“连接端口”** 改成 **6000-7000**（注意符号！！！&nbsp; 中间是-而不是:）
  
