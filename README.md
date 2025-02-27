@@ -35,7 +35,7 @@ wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_ma
 
 服务端口填写 **3000**
 
-以上设置不会永久保存，重启vps自动失效，所以重启后需要重新设置
+以上设置不会永久保存，重启vps自动失效，重启后需要重新设置
 
 <br>
 
