@@ -54,7 +54,7 @@ wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_ma
 
 <br>
 
-本教程仅供小白使用，感觉稍微有点水平都用不上这个   (›´ω`‹ )
+本教程仅供小白使用，感觉稍微有点水平都用不上这个        (›´ω`‹ )
 
 有问题请联系 [https://t.me/@talkingstick233_bot](https://t.me/talkingstick233_bot
 )
