@@ -14,7 +14,7 @@
 执行以下脚本：
 
 ```bash
-wget -N https://raw.githubusercontent.com/lisi-123/rclone/main/udp_port_mapping.sh && bash ./udp_port_mapping.sh
+wget -N https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_mapping.sh && bash ./udp_port_mapping.sh
 
 ```
 
