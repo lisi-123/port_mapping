@@ -11,19 +11,23 @@
 
 现在想做 **6000** 到 **7000** 的端口跳跃
 
-执行以下脚本：
+<br>
+
+首先执行以下脚本：
 
 ```bash
 wget -N https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_mapping.sh && bash ./udp_port_mapping.sh
 
 ```
 
-如果因为ipv6导致无法运行，试试这个
+如果因为ipv6导致无法运行，试试这个：
 
 ```bash
 wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_mapping.sh && bash ./udp_port_mapping.sh
 
 ```
+
+<br>
 
 连接端口（起始）填写 **6000**
 
