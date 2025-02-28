@@ -68,7 +68,7 @@ sudo apt install iptables-persistent
 
 <br>
 
-本教程仅供小白使用，感觉稍微有点水平都用不上这个哎 &nbsp;&nbsp; (›´ω`‹ )
+本教程代码全部由gpt生成，本人仅测试过一次 &nbsp;&nbsp; (›´ω`‹ )
 
 有问题请联系 [https://t.me/@talkingstick233_bot](https://t.me/talkingstick233_bot
 )
