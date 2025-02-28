@@ -37,6 +37,14 @@ wget -4 https://raw.githubusercontent.com/lisi-123/port_mapping/main/udp_port_ma
 
 以上设置不会永久保存，重启vps自动失效，重启后需要重新设置
 
+如果需要永久保存，执行这个
+
+```bash
+sudo apt install iptables-persistent
+
+```
+安装时所有选项都是确认
+
 如果使用了防火墙，请确认 6000-7000 端口的udp可正常使用
 
 <br>
