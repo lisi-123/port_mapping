@@ -45,6 +45,8 @@ sudo apt install iptables-persistent
 ```
 安装时所有选项都是确认
 
+<br>
+
 如果使用了防火墙，请确认 6000-7000 端口的udp可正常使用
 
 <br>
